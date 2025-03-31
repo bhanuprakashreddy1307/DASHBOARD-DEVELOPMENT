@@ -114,6 +114,10 @@ Forecasting future sales based on historical trends.
 Conclusion
 Building a Power BI dashboard for Adidas’ 2021 sales analysis involves data collection, transformation, modeling, visualization, and interactivity. By leveraging Power BI’s capabilities, Adidas can gain actionable insights to drive revenue growth, optimize marketing efforts, and improve overall business performance.
 
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/d831eb6a-6d03-46c7-90ff-6d1e0d7e2364)
+
 
 
 
